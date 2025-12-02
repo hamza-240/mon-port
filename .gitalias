@@ -1,0 +1,6 @@
+[include]
+    path = ./.gitalias
+
+[alias]
+    ll = log --oneline --decorate --graph --all
+
